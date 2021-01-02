@@ -23,7 +23,7 @@ Start by cloning the repository.
 Import the .net project.
 
 For the data base part : 
-Start by importing the data base in microsot sql management studio
+Start by importing the data base in microsoft sql management studio
 ### Overview 
 
 The back-end part of the app is made using .net core web api ( v5.01 ) in order to implement an API that allows the following operations:
