@@ -10,5 +10,6 @@ namespace WebAPI_C5.Models
         public int ConsultantId { get; set; }
         public string ConsultantName { get; set; }
 
+        public ICollection<Project> Projects { get; set; }
     }
 }
