@@ -41,6 +41,8 @@ the output format is in JSON.
 
 The final result of the project looks like :
 
-![](1.png)
+![](ScreenShots/1.png)
 
-![](2.png)
+![](ScreenShots/2.png)
+
+![](ScreenShots/3.png)
