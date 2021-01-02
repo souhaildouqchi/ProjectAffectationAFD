@@ -2,7 +2,7 @@
 A Full Stack basic CRUD application for project assignment built using .net core web api for the back end sql server for the data base and angular framework for the front end.
 
 
-## This project consists of two parts the beck-end and front-end each on a seprate folder !
+## This project consists of two parts the back-end and front-end each on a seprate folder !
 - The Back-end consists of an SQL Server Data Base connected to a .Net core Web API / ( without the use of the Entity framework ) 
 - The front-end consists of an Angular app that fetchs the json data and displays it in a dynamic table ( with basic CRUD Operations and search and filtering ) 
 
